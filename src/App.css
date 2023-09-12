@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #17181f;
+  color: #ddd;
+}
+main {
+  max-width: 350px;
+  margin: 30px auto;
+}
+h1 {
+  text-align: center;
+  color: #fff;
+  margin: 0;
+}
+h2 {
+  text-align: center;
+  margin-top: 15px;
+}
+form {
+  margin-top: 20px;
+}
+form input {
+  width: 100%;
+  padding: 7px;
+  background-color: white;
+  border: 2px solid #30313d;
+  border-radius: 5px;
+}
+form input[type="datetime-local"] {
+  color: #777;
+}
+form div.basic {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+form button {
+  width: 100%;
+  margin-top: 20px;
+  border: 0;
+  border-radius: 5px;
+  padding: 5px;
+}
+form button:hover {
+  background-color: aquamarine;
+}
+.transactions {
+  margin-top: 10px;
+}
+.transaction {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-top: 1px solid #30313d;
+  color: rgb(241, 241, 163);
+}
+.transaction:first-child {
+  border-top: 0;
+}
+.transaction .name {
+  font-size: 1.2rem;
+}
+.transaction .description {
+  font-size: 0.7rem;
+}
+.transaction .datetime {
+  font-size: 0.7rem;
+}
+.right {
+  text-align: right;
+}
+.price.green {
+  color: #1c1;
+}
+.price.red {
+  color: #c11;
+}

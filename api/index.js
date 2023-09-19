@@ -32,7 +32,7 @@ app.get('/api/transactions', async (req, res) => {
 });
 // better practice
 mongoose.connect(process.env.MONGO_URL).then(()=>{
-  console.log("connection succesfull");
+  console.log("connection successfull");
 }).catch((e)=>{
   console.log(e)
 })

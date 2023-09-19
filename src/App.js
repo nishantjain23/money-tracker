@@ -55,7 +55,7 @@ function App() {
           <input type="text"
             value={name}
             onChange={ev => setName(ev.target.value)}
-            placeholder='+- Expense' />
+            placeholder='"+- Price" "Exp_name"' />
           <input type="datetime-local"
             value={datetime}
             onChange={ev => setDatetime(ev.target.value)} />

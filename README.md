@@ -3,11 +3,11 @@ Developed a user-friendly interface allowing users to log and categorize their e
 Independently developed the project to gain real-world development experience, improve technical skills, and meet personal expense tracking needs.
 
 # Technologies Used:
-Node.js: A JavaScript runtime for server-side development
-React.js: A Javascript framework for frontend
-Express.js: A web application framework for Node.js
-MongoDB: A NoSQL database for storing tasks and lists
-Nodemon: A development tool for automatically restarting the server on file changes
+* Node.js: A JavaScript runtime for server-side development
+* React.js: A Javascript framework for frontend
+* Express.js: A web application framework for Node.js
+* MongoDB: A NoSQL database for storing tasks and lists
+* Nodemon: A development tool for automatically restarting the server on file changes
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Start the application using the command
-### cd api
-### nodemon index.js
+### `cd api`
+### `nodemon index.js`
 
 Feel free to explore and customize the application to suit your needs!

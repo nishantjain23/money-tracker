@@ -1,6 +1,6 @@
 # Money - Tracker
-Developed a user-friendly interface allowing users to log and categorize their expenses, helping with budget management.
-Independently developed the project to gain real-world development experience, improve technical skills, and meet personal expense tracking needs.
+* Developed a user-friendly interface allowing users to log and categorize their expenses, helping with budget management.
+* Independently developed the project to gain real-world development experience, improve technical skills, and meet personal expense tracking needs.
 
 # Technologies Used:
 * Node.js: A JavaScript runtime for server-side development
@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 * make .env file
 * Write MONGO_URL = "your_url_created_using_Mongodb"
 
-Start the application using the command
+## Start the application using the command
 ### `cd api`
 ### `nodemon index.js`
 

@@ -11,10 +11,10 @@ Independently developed the project to gain real-world development experience, i
 
 ## Getting Started
 
-Clone the repository and navigate to the project directory.
-Install the dependencies using the command: npm install.
+* Clone the repository and navigate to the project directory.
+* Install the dependencies using the command: npm install.
 
-In the project directory, you can run:
+## In the project directory, you can run:
 ### `npm start`
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -22,5 +22,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Start the application using the command
 ### `cd api`
 ### `nodemon index.js`
+
+## Create your own Mongo_URL using Mongodb 
+* Go toh tht api folder
+* make .env file
+* Write MONGO_URL = "your_url_created_using_Mongodb"
 
 Feel free to explore and customize the application to suit your needs!

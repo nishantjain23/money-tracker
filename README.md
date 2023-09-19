@@ -19,13 +19,13 @@ Independently developed the project to gain real-world development experience, i
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## Create your own Mongo_URL using Mongodb 
+* Go to the api folder
+* make .env file
+* Write MONGO_URL = "your_url_created_using_Mongodb"
+
 Start the application using the command
 ### `cd api`
 ### `nodemon index.js`
 
-## Create your own Mongo_URL using Mongodb 
-* Go toh tht api folder
-* make .env file
-* Write MONGO_URL = "your_url_created_using_Mongodb"
-
-Feel free to explore and customize the application to suit your needs!
+Once you will get the message "connectiion successful" in the terminal, Feel free to explore and customize the application to suit your needs!

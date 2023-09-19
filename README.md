@@ -1,6 +1,5 @@
 # Money - Tracker
-* Developed a user-friendly interface allowing users to log and categorize their expenses, helping with budget management.
-* Independently developed the project to gain real-world development experience, improve technical skills, and meet personal expense tracking needs.
+In this project I have developed a user-friendly interface allowing users to log and categorize their expenses, helping with budget management.
 
 # Technologies Used:
 * Node.js: A JavaScript runtime for server-side development

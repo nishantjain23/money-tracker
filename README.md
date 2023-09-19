@@ -32,4 +32,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-Once you will get the message "connectiion successful" in the terminal, Feel free to explore and customize the application to suit your needs!
+Once you will get the message "connection successful" in the terminal, Feel free to explore and customize the application to suit your needs!
